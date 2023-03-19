@@ -1,0 +1,5 @@
+__pycache__/
+migrations/
+venv
+node_modules/
+db.sqlite3
